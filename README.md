@@ -30,5 +30,4 @@ Once the project is set up, here's how to use the application:
 ## Contributing
 Contributions are welcome! Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
-## License
-This project is licensed under the [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
+
