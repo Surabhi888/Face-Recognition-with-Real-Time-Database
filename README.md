@@ -27,7 +27,5 @@ Once the project is set up, here's how to use the application:
 3. **Real-Time Recognition**: Recognize faces in real-time and store information in the database.
 4. **Database Interaction**: Access and manage recognized faces and associated data in the database.
 
-## Contributing
-Contributions are welcome! Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
 
